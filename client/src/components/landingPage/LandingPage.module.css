@@ -1,0 +1,27 @@
+.conteiner {
+    display: inline-block;
+    padding-top: 250px;
+    
+}
+
+@media (max-width: 600px) {
+    .conteiner {
+      padding-top: 150px;
+    }
+  }
+
+box-icon{
+    margin-top: 5px;
+    font-size: 50px;
+}
+
+.btn{
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
+  border: 1px solid #00e4ba;
+  width: 50%;
+  border-radius: 10px;
+  padding: 10px;
+  transition: 0.3s;
+  cursor: pointer;
+}

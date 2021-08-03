@@ -1,0 +1,57 @@
+.activity{
+    padding: 25px;
+}
+
+.container{
+    width: 100%;
+}
+
+.label {
+    padding-bottom: 5px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.input{
+    background: none;
+    border: 1px solid #00e4ba;
+    padding: 5px;
+    color: white;
+    box-sizing: border-box;
+    margin: 20px auto;
+
+    
+}
+
+select{
+    border: 1px solid #00e4ba;
+    padding: 5px;
+    width: 72px;
+    color: white;
+    background-color: rgb(0, 15, 26, 0.486); 
+    box-sizing: border-box;
+    margin: 20px auto;
+}
+
+.btn{
+    padding-top: 5px;
+}
+
+.btn button{
+    background: none;
+    color: white;
+    padding: 5px;
+    border: 1px solid #00e4ba;
+    cursor: pointer;
+
+}
+
+
+.btncountrydelete {
+    cursor: pointer;
+    color: white;
+}
+

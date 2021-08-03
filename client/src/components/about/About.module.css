@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+    padding-top: 50px;
+}
+
+.container h2 {
+    color: white;
+}
+
+.container a {
+    text-decoration: none;
+    color: white;
+    transition: .3s;
+}
+
+.container a:hover {
+    color: #00e4ba; 
+}
+
